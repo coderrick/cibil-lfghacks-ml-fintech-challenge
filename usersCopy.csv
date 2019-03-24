@@ -1,0 +1,6 @@
+item_name, item_category, vendor, price
+write a fake data script for each item providing a random range for each item item_category
+so there should be 12 different scripts.
+
+Example
+Washing Machine, Furniture, Furniture store, 333.00
