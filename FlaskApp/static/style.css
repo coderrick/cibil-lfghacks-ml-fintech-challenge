@@ -5,8 +5,8 @@ body {
 }
 
 .card {
-  height: 400px;
-  width: 300px;
+  height: 700px;
+  width: 400px;
   background: #fff;
   font-family: Roboto;
   display: block;
@@ -93,8 +93,8 @@ body {
 
 .login {
   position: absolute;
-  width: 280px;
-  height: 380px;
+  width: 370px;
+  height: 400px;
   margin: 10px;
   text-align: center;
   overflow-y: auto;
@@ -110,7 +110,7 @@ body {
 
 .register {
   position: absolute;
-  width: 280px;
+  width: 350px;
   height: 200px;
   margin: 10px;
   text-align: center;
